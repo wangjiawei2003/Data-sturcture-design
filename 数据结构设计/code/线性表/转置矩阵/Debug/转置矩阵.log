@@ -1,0 +1,4 @@
+﻿  快速转置.cpp
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\2022.9.7\转置矩阵\快速转置.cpp(14,6): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\2022.9.7\转置矩阵\快速转置.cpp(14,6): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+  转置矩阵.vcxproj -> C:\Users\wangjiawei\Desktop\大二\数据结构设计\2022.9.7\Debug\转置矩阵.exe

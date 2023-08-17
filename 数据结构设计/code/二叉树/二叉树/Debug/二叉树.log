@@ -1,0 +1,26 @@
+﻿  链表.cpp
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(71,25): error C3245: “b”: 使用变量模板需要模板参数列表
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(26): message : 参见“b”的声明
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(65,8): error C3245: “b”: 使用变量模板需要模板参数列表
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(26): message : 参见“b”的声明
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(100,2): error C3861: “BinTreenode”: 找不到标识符
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(100,18): error C2065: “p”: 未声明的标识符
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(100,18): error C3861: “p”: 找不到标识符
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(103,9): error C2065: “p”: 未声明的标识符
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(103,9): error C3861: “p”: 找不到标识符
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(105,11): error C2065: “p”: 未声明的标识符
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(105,11): error C3861: “p”: 找不到标识符
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(106,7): error C2065: “p”: 未声明的标识符
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(106,7): error C3861: “p”: 找不到标识符
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(108,11): error C3861: “p”: 找不到标识符
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(110,7): error C2065: “p”: 未声明的标识符
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(110,7): error C3861: “p”: 找不到标识符
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(112,4): error C3861: “p”: 找不到标识符
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(112,8): error C3861: “p”: 找不到标识符
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(116,4): error C3861: “p”: 找不到标识符
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(129,135): error C2059: 语法错误:“)”
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(129,135): error C2760: 语法错误: 意外标记 "}"，应为 ";"
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(131,1): error C2059: 语法错误:“}”
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(131,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(134,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\wangjiawei\Desktop\大二\数据结构设计\二叉树\二叉树\链表.cpp(134,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
